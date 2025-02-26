@@ -14,7 +14,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/netflix-content-analytics.git
+    git clone https://github.com/Vimukthixsandeepa/netflix-content-analytics.git
     cd netflix-content-analytics
     ```
 
